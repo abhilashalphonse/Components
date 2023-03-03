@@ -1,4 +1,4 @@
-@media all and (min-width: 772px) {
+@media all and (min-width: 768px) {
 	.label-main-container{ background-color: #6361611C; padding: 15px 10vw;}
     .navbar-nav .nav-item .dropdown-menu{ display: none; }
     .navbar-nav .nav-item{ text-align: center;}
@@ -13,6 +13,6 @@
     #label-menu-align-right{ padding-left: 20vw;}
 } 
 
-@media all and (max-width: 772px){
+@media all and (max-width: 768px){
     .label-main-container{ display: none;}
 }
