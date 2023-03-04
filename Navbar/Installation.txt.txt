@@ -1,0 +1,16 @@
+Instructions
+
+Add --
+Server.js
+api-server.js
+.env
+
+files in the root folder
+
+
+
+install the following npm modules
+- 0auth
+- react-fontawesome
+- react-router-dom
+
